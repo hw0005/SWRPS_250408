@@ -2,7 +2,8 @@ import React, { useEffect, useState } from 'react';
 import RpsApiClient from "../services/RpsApiClient";
 import LastAttemptsComponent from './LastAttemptsComponent';
 import StatsComponent from './StatsComponent';
-import LeaderboardComponent from './LeaderBoardComponent';
+//import LeaderboardComponent from './LeaderBoardComponent';
+import LeaderboardComponent from './LeaderboardComponent';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 const ChallengeComponent = () => {

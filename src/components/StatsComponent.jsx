@@ -40,7 +40,7 @@ const StatsComponent = (props) => {
             <Table borderless>
             <thead>
                 <tr>
-                    <h3>통계</h3>
+                    <th>통계</th>
                 </tr>
             </thead>
             <tbody>
